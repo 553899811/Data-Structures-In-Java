@@ -3,9 +3,6 @@ package com.zhangyong.DataStructures.Map;
 /**
  * <p>ClassName:  </p>
  * <p>Description: BST实现Map</p>
- * <p>Company: http://www.shopin.net</p>
- *
- * @author zhangyong@shopin.cn
  * @version 1.0.0
  * @date 2018/10/18/018 17:59
  */

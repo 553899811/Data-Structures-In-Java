@@ -5,9 +5,7 @@ import com.zhangyong.DataStructures.List.LinkedList;
 /**
  * <p>ClassName:  </p>
  * <p>Description: </p>
- * <p>Company: http://www.shopin.net</p>
- *
- * @author zhangyong@shopin.cn
+
  * @version 1.0.0
  * @date 2018/10/18/018 17:55
  */

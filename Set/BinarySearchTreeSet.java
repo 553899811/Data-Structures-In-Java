@@ -5,9 +5,7 @@ import com.zhangyong.DataStructures.Tree.BinaryTree.BinarySearchTree;
 /**
  * <p>ClassName:  </p>
  * <p>Description: </p>
- * <p>Company: http://www.shopin.net</p>
- *
- * @author zhangyong@shopin.cn
+
  * @version 1.0.0
  * @date 2018/10/17/017 13:47
  */

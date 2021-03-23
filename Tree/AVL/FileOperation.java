@@ -9,9 +9,6 @@ import java.util.Scanner;
 
 /**
  * <p>Description: </p>
- * <p>Company: http://www.dmall.com</p>
- *
- * @author yong.zhang@dmall.com
  * @version 1.0.0
  * @date 2020/1/26 17:04
  */
